@@ -1,0 +1,289 @@
+{
+ "app": "Student Loan App",
+ "start": "s-02-welcome-01",
+ "screens": [
+  {
+   "slug": "s-05-transactions-list-01",
+   "name": "05_transactions_list_01",
+   "page": "05_transactions_list",
+   "w": 1125,
+   "h": 2436,
+   "elements": 56,
+   "links": 2
+  },
+  {
+   "slug": "s-05-transactions-list-02",
+   "name": "05_transactions_list_02",
+   "page": "05_transactions_list",
+   "w": 1125,
+   "h": 2436,
+   "elements": 62,
+   "links": 3
+  },
+  {
+   "slug": "s-01-login-01",
+   "name": "01_login_01",
+   "page": "01_sign",
+   "w": 1125,
+   "h": 2436,
+   "elements": 14,
+   "links": 3
+  },
+  {
+   "slug": "s-02-signup-01",
+   "name": "02_signUp_01",
+   "page": "01_sign",
+   "w": 1125,
+   "h": 2436,
+   "elements": 32,
+   "links": 2
+  },
+  {
+   "slug": "s-01-sign-post-01",
+   "name": "01_sign_post_01",
+   "page": "01_sign",
+   "w": 1125,
+   "h": 2436,
+   "elements": 22,
+   "links": 2
+  },
+  {
+   "slug": "s-02-welcome-01",
+   "name": "02_welcome_01",
+   "page": "02_welcome",
+   "w": 1125,
+   "h": 2436,
+   "elements": 22,
+   "links": 3
+  },
+  {
+   "slug": "s-02-welcome-02",
+   "name": "02_welcome_02",
+   "page": "02_welcome",
+   "w": 1125,
+   "h": 2436,
+   "elements": 32,
+   "links": 4
+  },
+  {
+   "slug": "s-02-welcome-03",
+   "name": "02_welcome_03",
+   "page": "02_welcome",
+   "w": 1125,
+   "h": 2436,
+   "elements": 26,
+   "links": 4
+  },
+  {
+   "slug": "s-02-welcome-04",
+   "name": "02_welcome_04",
+   "page": "02_welcome",
+   "w": 1125,
+   "h": 2436,
+   "elements": 22,
+   "links": 4
+  },
+  {
+   "slug": "s-02-welcome-05",
+   "name": "02_welcome_05",
+   "page": "02_welcome",
+   "w": 1125,
+   "h": 2436,
+   "elements": 25,
+   "links": 4
+  },
+  {
+   "slug": "s-10-link-bank-01",
+   "name": "10_link_bank_01",
+   "page": "10_bank_link",
+   "w": 1125,
+   "h": 2436,
+   "elements": 29,
+   "links": 2
+  },
+  {
+   "slug": "s-10-link-bank-02",
+   "name": "10_link_bank_02",
+   "page": "10_bank_link",
+   "w": 1125,
+   "h": 2436,
+   "elements": 26,
+   "links": 2
+  },
+  {
+   "slug": "s-10-link-bank-03",
+   "name": "10_link_bank_03",
+   "page": "10_bank_link",
+   "w": 1125,
+   "h": 2436,
+   "elements": 29,
+   "links": 3
+  },
+  {
+   "slug": "s-10-link-bank-04",
+   "name": "10_link_bank_04",
+   "page": "10_bank_link",
+   "w": 1125,
+   "h": 2436,
+   "elements": 9,
+   "links": 2
+  },
+  {
+   "slug": "s-04-dashboard-01-b-01",
+   "name": "04_dashboard_01_b_01",
+   "page": "04_dashboard",
+   "w": 1125,
+   "h": 2436,
+   "elements": 69,
+   "links": 2
+  },
+  {
+   "slug": "s-04-dashboard-01-b-02",
+   "name": "04_dashboard_01_b_02",
+   "page": "04_dashboard",
+   "w": 1125,
+   "h": 2436,
+   "elements": 58,
+   "links": 2
+  },
+  {
+   "slug": "s-04-dashboard-01-c-01",
+   "name": "04_dashboard_01_c_01",
+   "page": "04_dashboard",
+   "w": 1125,
+   "h": 2436,
+   "elements": 45,
+   "links": 2
+  },
+  {
+   "slug": "s-04-dashboard-01-c-02",
+   "name": "04_dashboard_01_c_02",
+   "page": "04_dashboard",
+   "w": 1125,
+   "h": 2436,
+   "elements": 45,
+   "links": 2
+  },
+  {
+   "slug": "s-06-ch-pool-01-all",
+   "name": "06_ch_pool_01_all",
+   "page": "06_pool",
+   "w": 1125,
+   "h": 2436,
+   "elements": 50,
+   "links": 6
+  },
+  {
+   "slug": "s-06-ch-pool-02-recurring",
+   "name": "06_ch_pool_02_recurring",
+   "page": "06_pool",
+   "w": 1125,
+   "h": 2436,
+   "elements": 44,
+   "links": 4
+  },
+  {
+   "slug": "s-06-ch-pool-03-one",
+   "name": "06_ch_pool_03_one",
+   "page": "06_pool",
+   "w": 1125,
+   "h": 2436,
+   "elements": 40,
+   "links": 5
+  },
+  {
+   "slug": "s-06-ch-pool-04-invite",
+   "name": "06_ch_pool_04_invite",
+   "page": "06_pool",
+   "w": 1125,
+   "h": 2436,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "s-08-settings-01",
+   "name": "08_settings_01",
+   "page": "08_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 30,
+   "links": 2
+  },
+  {
+   "slug": "s-08-settings-02-details",
+   "name": "08_settings_02_details",
+   "page": "08_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 63,
+   "links": 2
+  },
+  {
+   "slug": "s-08-settings-03-banks",
+   "name": "08_settings_03_banks",
+   "page": "08_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 36,
+   "links": 4
+  },
+  {
+   "slug": "s-08-settings-04-loans",
+   "name": "08_settings_04_loans",
+   "page": "08_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 44,
+   "links": 2
+  },
+  {
+   "slug": "s-08-settings-03-banks-b",
+   "name": "08_settings_03_banks_b",
+   "page": "08_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 19,
+   "links": 2
+  },
+  {
+   "slug": "s-08-settings-04-loans-b",
+   "name": "08_settings_04_loans_b",
+   "page": "08_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 22,
+   "links": 2
+  },
+  {
+   "slug": "s-07-savings-01",
+   "name": "07_savings_01",
+   "page": "07_savings_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 49,
+   "links": 2
+  },
+  {
+   "slug": "s-07-savings-02-recurring-b-01",
+   "name": "07_savings_02_recurring_b_01",
+   "page": "07_savings_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 62,
+   "links": 2
+  },
+  {
+   "slug": "s-07-savings-03-roundups",
+   "name": "07_savings_03_roundups",
+   "page": "07_savings_settings",
+   "w": 1125,
+   "h": 2436,
+   "elements": 55,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "poppins"
+ ]
+}
